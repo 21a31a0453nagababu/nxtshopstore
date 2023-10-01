@@ -1,0 +1,50 @@
+/* Write your CSS code here */
+.home-container {
+  display: flex;
+  flex-direction: row;
+}
+.home-content {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 5px;
+}
+.home-heading {
+  color: #;
+}
+.logo {
+  height: 40px;
+  width: 120px;
+}
+shop-now-button {
+  background-color: #0967d2;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 20px;
+  color: #ffffff;
+  border-radius: 5px;
+}
+.home-heading {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 35px;
+  font-weight: bold;
+  padding: 10px;
+  justify-content: flex-start;
+  margin-left: 8px;
+}
+.home-description {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: bold;
+  padding: 10px;
+  justify-content: flex-start;
+  margin-left: 8px;
+  margin-top: 5px;
+}
+.home-desktop-img {
+  width: 80%;
+  margin: 10px;
+}

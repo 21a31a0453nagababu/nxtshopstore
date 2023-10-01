@@ -1,0 +1,33 @@
+.nav-header {
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.website-logo {
+  height: 40px;
+  width: 120px;
+}
+
+.nav-menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.nav-link {
+  color: #e2e8f0;
+  font-family: 'Roboto';
+  font-size: 10px;
+}
+.logout-desktop-btn {
+  background-color: #0967d2;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 20px;
+  color: #ffffff;
+  border-radius: 5px;
+}
+nav-content {
+  display: flex;
+  flex-direction: row;
+}
